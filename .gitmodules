@@ -1,0 +1,3 @@
+[submodule "lifetime"]
+	path = lifetime
+	url = git@github.com:kelvin34501/crust_of_rust_lifetime.git
